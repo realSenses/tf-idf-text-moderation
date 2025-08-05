@@ -16,7 +16,7 @@ A multi-label classification model for detecting toxic comments across 6 categor
 
 ## Model Description
 
-This model is trained on the Kaggle Toxic Comments dataset to identify various types of toxic content in user-generated text. It uses a combination of:
+This model is trained on the [Kaggle Toxic Comments dataset](https://www.kaggle.com/datasets/get2jawa/toxic-comments-train) to identify various types of toxic content in user-generated text. It uses a combination of:
 - Enhanced text preprocessing with pattern recognition
 - Word-level TF-IDF features (n-grams 1-3)
 - Character-level TF-IDF features (n-grams 3-5)
